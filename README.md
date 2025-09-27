@@ -21,4 +21,4 @@ MoyenneExpress est une application simple faite en Python pour calculer la moyen
 4. `python main.py`
 
 # LICENCE :
-MoyenneExpress est sous licence GNU General Public License v2.0. Consulter le fichier `LICENSE` pour plus de détails.
+MoyenneExpress est sous licence GNU General Public License v2.0. Consulter le fichier [`LICENSE`](https://github.com/Elicopter78/MoyenneExpress/blob/main/LICENSE) pour plus de détails.
