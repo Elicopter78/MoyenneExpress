@@ -13,3 +13,9 @@ Utilisation :
 2. Entrez les notes, les maximums qu'il est possible d'avoir et les coefficients puis appuyez sur "Calculer la moyenne".
 3. Si vous souhaitez rajouter une note appuyez sur le bouton "+", et si vous souhaitez en supprimer une appuyez sur le bouton "-" correspondant à la note.
 4. Pour réinitialiser les notes cliquez sur "Réinitialiser les notes".
+
+Execution :
+1. `git clone https://github.com/Elicopter78/MoyenneExpress.git`
+2. `cd MoyenneExpress`
+3. `pip install -r requirements.txt`
+4. `python main.py`
