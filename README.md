@@ -20,4 +20,5 @@ MoyenneExpress est une application simple faite en Python pour calculer la moyen
 3. `pip install -r requirements.txt`
 4. `python main.py`
 
-# LICENSE :
+# LICENCE :
+MoyenneExpress est sous licence GNU General Public License v2.0. Consulter le fichier `LICENSE` pour plus de détails.
