@@ -14,7 +14,7 @@ MoyenneExpress est une application simple faite en Python pour calculer la moyen
 3. Si vous souhaitez rajouter une note appuyez sur le bouton "+", et si vous souhaitez en supprimer une appuyez sur le bouton "-" correspondant à la note.
 4. Pour réinitialiser les notes cliquez sur "Réinitialiser les notes".
 
-## EXECUTION :
+## EXECUTION EN LOCAL :
 1. `git clone https://github.com/Elicopter78/MoyenneExpress.git`
 2. `cd MoyenneExpress`
 3. `pip install -r requirements.txt`
